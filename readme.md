@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eversonfx&langs_count=8)](https://github.com/eversonfx)
 
-## 📈 GitHub Status
+## 📈 GitHub Stats
 </h4>
 
 <h6 align="center">
