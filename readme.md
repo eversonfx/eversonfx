@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Hello🌎! I'm Everson!👋</a>
+    <a href="https://pt-br.reactjs.org/">Hello! I'm Everson!👋</a>
 </h1>
 
 <h3 align="center">
